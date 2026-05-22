@@ -57,7 +57,7 @@ This project presents a secure coding review of a PHP-based web application (**r
 
 The full detailed report is available here:
 
-👉 [Secure Coding Review Report](Secure_Coding_Review_Report.pdf)
+👉 [Secure Coding Review Report](https://github.com/TheCyberMask/CodeAlpha_Secure-Coding-Review/blob/main/Secure%20Coding%20Review%20Report.pdf)
 
 ---
 
